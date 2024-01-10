@@ -1,4 +1,4 @@
-# wai
+# WAI
 
 WAI is a chatGPT apps, created using flutter 
 
